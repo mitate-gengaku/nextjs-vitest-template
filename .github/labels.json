@@ -83,5 +83,51 @@
       "name": "complexity:hard",
       "color": "eb6060",
       "description": "複雑で難易度の高い課題"
+  },
+  
+  {
+      "name": "bug",
+      "color": "d73a4a",
+      "description": "何かが正常に動作していない"
+  },
+  {
+      "name": "documentation",
+      "color": "0075ca",
+      "description": "ドキュメントの追加や改善"
+  },
+  {
+      "name": "duplicate",
+      "color": "cfd3d7",
+      "description": "既存のIssueと重複している"
+  },
+  {
+      "name": "enhancement",
+      "color": "a2eeef",
+      "description": "既存機能の改善や拡張"
+  },
+  {
+      "name": "good first issue",
+      "color": "7057ff",
+      "description": "初めてのコントリビューターに適した課題"
+  },
+  {
+      "name": "help wanted",
+      "color": "008672",
+      "description": "追加の支援が必要な課題"
+  },
+  {
+      "name": "invalid",
+      "color": "e4e669",
+      "description": "無効または関連性のない課題"
+  },
+  {
+      "name": "question",
+      "color": "d876e3",
+      "description": "さらなる情報が必要な質問"
+  },
+  {
+      "name": "wontfix",
+      "color": "ffffff",
+      "description": "対応しない課題"
   }
 ]

@@ -56,7 +56,7 @@
   },
   {
       "name": "scope:backend",
-      "color": 53190000000,
+      "color": "5319e7",
       "description": "バックエンド関連の変更"
   },
   {

@@ -11,8 +11,16 @@ export default defineConfig({
     }
   },
   test: {
-    globals: true,
+    coverage: {
+      include: [
+        "src"
+      ]
+    },
     environment: "happy-dom",
+    globals: true,
+    include: [
+      '**/*.test.?(c|m)[jt]s?(x)'
+    ],
     setupFiles: "./src/tests/setup/setup.ts"
   },
 })
